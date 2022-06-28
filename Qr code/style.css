@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.qr-code-container{
+    background-color:white;
+    height: auto;
+    width: 250px;
+    border-radius: 20px;
+}
+.qr-code-image{
+    width: 200px;
+    height: 200px;
+    margin:20px;
+}
+.bold{
+    font-weight: bold;
+    font-size:20px;
+    text-align: center;
+}
+.small{
+    font-size: 15px;
+    text-align: center;
+}
+body{
+    background-color: rgb(205, 233, 245);
+}
